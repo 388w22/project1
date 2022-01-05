@@ -1,0 +1,5 @@
+{
+    "dockerFile": "Dockerfile",
+    "remoteUser": "eecs388",
+    "extensions": ["ms-azuretools.vscode-docker", "ms-python.python"]
+}
